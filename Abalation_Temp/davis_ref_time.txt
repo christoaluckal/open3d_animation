@@ -1,0 +1,10 @@
+{
+  "filenames":
+  [
+    "GT_DAVIS_SQ1_Sampled.ply",
+    "FAST_DAVIS_SQ1_Aligned.ply"
+  ],
+  "hausdorff": 221.2885583,
+  "modified_hausdorff": 0.5570938981,
+  "pdal_version": "2.4.3 (git-version: Release)"
+}
